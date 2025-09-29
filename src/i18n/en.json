@@ -1,0 +1,1211 @@
+{
+  "brand": "Al-Madina International",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "studentLife": "Student Life",
+    "newsEvents": "News & Events",
+    "parentResources": "Parent Resources",
+    "contact": "Contact",
+    "admin": "Admin",
+    "skipLink": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "testimonials": {
+    "ariaLabel": "5 out of 5 stars",
+    "items": [
+      {
+        "quote": "The holistic approach to education and emphasis on character development has transformed my daughter into a confident global citizen.",
+        "author": "Dr. Sarah Al-Zahra",
+        "role": "Parent of Grade 5 Student"
+      },
+      {
+        "quote": "Outstanding university preparation and personalized attention. The teachers genuinely care about each student’s success.",
+        "author": "Ahmed Al-Rashid",
+        "role": "Parent of Grade 11 Student"
+      },
+      {
+        "quote": "The nurturing environment and bilingual program have given my son the perfect foundation for his educational journey.",
+        "author": "Fatima Al-Mansouri",
+        "role": "Parent of KG2 Student"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Shaping Tomorrow's Leaders",
+    "title1": "Shaping Tomorrow's",
+    "title2": "Leaders",
+    "subtitle": "At Al Madina International Academy, we cultivate academic excellence, cultural understanding, and ethical leadership in a nurturing environment that honors tradition and innovation.",
+    "ctaApply": "Apply Now",
+    "ctaTour": "Book a Tour",
+    "ctaDiscover": "Discover Our Story"
+  },
+  "home": {
+    "highlightsTitle": "Why Choose Us",
+    "h1": "A community that nurtures curiosity, character, and excellence.",
+    "badge": "Excellence in International Education since 2010",
+    "valuesEyebrow": "Our Values",
+    "valuesTitle": "The Foundation of Excellence",
+    "values": {
+      "excellenceTitle": "Excellence",
+      "excellenceDesc": "Pursuing the highest standards in academics and character.",
+      "globalTitle": "Global Citizenship",
+      "globalDesc": "Preparing students for an interconnected world.",
+      "compassionTitle": "Compassion",
+      "compassionDesc": "Fostering empathy and care for others."
+    },
+    "academicEyebrow": "Academic Sections",
+    "academicTitle": "Comprehensive Educational Journey",
+    "academicDesc": "From early childhood through university preparation, our programs nurture intellectual curiosity, critical thinking, and character development.",
+    "academic": {
+      "eypDesc": "Nurturing young minds through play-based learning and foundational skill development.",
+      "primaryDesc": "Building strong academic foundations with innovative bilingual methods.",
+      "middleDesc": "Preparing learners for advanced study with a comprehensive curriculum.",
+      "highDesc": "Excellence in preparation for university and international certifications."
+    },
+    "campusEyebrow": "World-Class Campus",
+    "campusTitle": "Inspiring Learning Environments",
+    "campusDesc": "Our state-of-the-art campus provides students with exceptional facilities that support academic excellence and personal growth.",
+    "familiesEyebrow": "Families' Voices",
+    "familiesTitle": "Trusted by Families",
+    "familiesDesc": "Hear from parents who have entrusted us with their children's education and see the transformative impact of our approach.",
+    "numbers": {
+      "title": "Our School by the Numbers",
+      "subtitle": "Building a strong foundation for academic and personal success.",
+      "activeStudents": "Active Students",
+      "qualifiedTeachers": "Qualified Teachers",
+      "nationalities": "Nationalities",
+      "universityAcceptance": "University Acceptance"
+    },
+    "cta": {
+      "title": "Ready to Join Our Community?",
+      "subtitle": "Take the first step towards your child's exceptional educational journey.",
+      "secondary": "Schedule a Visit"
+    }
+  },
+  "about": {
+    "title": "About the School",
+    "missionTitle": "Mission",
+    "mission": "To cultivate confident, compassionate, and creative learners prepared for a rapidly changing world.",
+    "visionTitle": "Vision",
+    "vision": "To be a model bilingual school known for academic excellence, innovation, and values.",
+    "coreValuesEyebrow": "Our Core Values",
+    "coreValuesTitle": "Values That Guide Our Vision",
+    "journeyEyebrow": "Our Journey",
+    "journeyTitle": "Milestones in Our History",
+    "leadershipEyebrow": "Leadership Team",
+    "leadershipTitle": "Leaders Behind Our Success",
+    "campusTourTitle": "Campus Tour",
+    "campusTourDesc": "Discover our state-of-the-art facilities and inspiring learning environment",
+    "statsTitle": "Our Achievements in Numbers",
+    "statsDesc": "Proud of what we've achieved during our educational journey",
+    "yearsOfExcellence": "Years of Excellence",
+    "diverseNationalities": "Diverse Nationalities",
+    "valuesIntro": "We believe in solid values that form the foundation of our educational philosophy and guide all our decisions and daily practices.",
+    "valuesItems": [
+      {
+        "icon": "🎓",
+        "title": "Academic Excellence",
+        "description": "We strive for the highest academic and educational standards across all our programs."
+      },
+      {
+        "icon": "🌍",
+        "title": "Global Perspective",
+        "description": "We prepare our students to be global citizens ready to face future challenges."
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaboration & Partnership",
+        "description": "We believe in the power of partnership between school, family, and community for success."
+      },
+      {
+        "icon": "💡",
+        "title": "Creativity & Innovation",
+        "description": "We encourage creative thinking and innovative solutions in a stimulating learning environment."
+      }
+    ],
+    "achievements": [
+      {
+        "year": "2010",
+        "title": "School Establishment",
+        "description": "Beginning our journey in international education"
+      },
+      {
+        "year": "2015",
+        "title": "International Accreditation",
+        "description": "Received prestigious international accreditation"
+      },
+      {
+        "year": "2018",
+        "title": "Campus Expansion",
+        "description": "Opened new building with state-of-the-art facilities"
+      },
+      {
+        "year": "2023",
+        "title": "850+ Students",
+        "description": "Growing our exceptional educational community"
+      }
+    ],
+    "leadershipTeam": [
+      {
+        "name": "Dr. Ahmed Al-Mohammadi",
+        "position": "Principal",
+        "bio": "20 years of experience in international education and managing prestigious educational institutions."
+      },
+      {
+        "name": "Ms. Fatima Al-Ali",
+        "position": "Academic Vice Principal",
+        "bio": "Specialist in curriculum development and advanced educational programs."
+      },
+      {
+        "name": "Mr. Mohammed Al-Rashid",
+        "position": "Student Affairs Director",
+        "bio": "Expert in student counseling and developmental extracurricular activities."
+      }
+    ]
+  },
+  "programs": {
+    "title": "Programs & Admissions",
+    "eyp": "Early Years Programme (KG1–KG2)",
+    "primary": "Primary School (Grades 1–5)",
+    "middle": "Middle School (Grades 6–8)",
+    "high": "High School (Grades 9–12)",
+    "features": [
+      "IB-inspired learning",
+      "Bilingual environment",
+      "STEM & Arts",
+      "Outdoor learning"
+    ],
+    "admissions": "Admissions are now open. Limited seats available."
+  },
+  "programsPage": {
+    "intro": "We offer exceptional educational programs tailored to meet students' needs across all academic stages, from early childhood through high school.",
+    "curriculumEyebrow": "Subject Areas",
+    "curriculumTitle": "Comprehensive Curriculum",
+    "curriculumDesc": "We offer balanced curricula covering all core subjects and enrichment activities.",
+    "highlightsTitle": "Key Highlights",
+    "cta": {
+      "title": "Have Questions About Our Programs?",
+      "subtitle": "Our admissions team is here to help guide you and answer any questions.",
+      "primary": "Schedule a Visit"
+    },
+    "programDetails": {
+      "eyp": {
+        "ageRange": "3-5 years",
+        "description": "Our Early Years Program focuses on holistic child development through educational play and interactive activities.",
+        "highlights": [
+          "Safe and stimulating learning environment",
+          "Social skills development",
+          "Arts and creative activities"
+        ]
+      },
+      "primary": {
+        "ageRange": "6-11 years",
+        "description": "Primary education builds strong foundations in literacy and numeracy while fostering critical thinking skills.",
+        "highlights": [
+          "Balanced and integrated curriculum",
+          "Bilingual Arabic-English learning",
+          "Hands-on science projects"
+        ]
+      },
+      "middle": {
+        "ageRange": "12-14 years",
+        "description": "Middle school prepares students for academic challenges ahead while developing character and confidence.",
+        "highlights": [
+          "Advanced academic subjects",
+          "Student leadership programs",
+          "Diverse extracurricular activities"
+        ]
+      },
+      "high": {
+        "ageRange": "15-18 years",
+        "description": "High school prepares students for global universities through internationally accredited curricula and comprehensive preparation.",
+        "highlights": [
+          "Global university preparation",
+          "Internationally accredited curricula",
+          "Specialized career guidance"
+        ]
+      }
+    }
+  },
+  "admissionsPage": {
+    "eyebrow": "Admissions Process",
+    "title": "Your Journey to Join Us",
+    "intro": "A simple, supportive process to welcome you to our learning community.",
+    "applyCta": "Apply Now",
+    "contactCta": "Talk to Admissions",
+    "docsTitle": "Required Documents",
+    "feesTitle": "Fees",
+    "docsExamples": [
+      "Recent report cards",
+      "ID/Passport copies",
+      "Recent passport photos",
+      "Transfer certificate (if applicable)"
+    ],
+    "applicationFee": "Application Fee",
+    "assessmentFee": "Assessment Fee",
+    "total": "Total",
+    "feesNote": "Fees are non-refundable.",
+    "steps": [
+      "Submit Application",
+      "Assessment & Interview",
+      "Application Review",
+      "Admission Decision"
+    ],
+    "stepDescs": [
+      "Fill out the online form and attach required documents",
+      "Academic assessment and personal interview with student and parents",
+      "Admissions team reviews all documents and assessments",
+      "Official notification of admission decision and enrollment steps"
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "thanks": "Thank you! We will get back to you shortly.",
+    "header": {
+      "eyebrow": "Get in Touch",
+      "title": "Contact Our School",
+      "description": "We're here to answer your questions and help you learn more about our international school community."
+    },
+    "formTitle": "Send us a Message",
+    "placeholders": {
+      "name": "Enter your full name",
+      "email": "your.email@example.com",
+      "subject": "What is this about?",
+      "message": "Write your message here..."
+    },
+    "sending": "Sending...",
+    "departmentsTitle": "Department Contacts",
+    "quickResponseTitle": "Quick Response Promise",
+    "quickResponseDesc": "We respond within 24 hours on business days",
+    "faq": {
+      "eyebrow": "Quick Answers",
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most commonly asked questions",
+      "items": [
+        { "q": "What are the school hours?", "a": "Sunday to Thursday, 7:30 AM - 2:30 PM" },
+        { "q": "Do you provide school transportation?", "a": "Yes, we offer safe transportation covering most Riyadh districts" },
+        { "q": "What is the language of instruction?", "a": "Instruction is in both Arabic and English" },
+        { "q": "How can I schedule a school tour?", "a": "Contact admissions or book through our website" }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Visit Our Campus?",
+      "subtitle": "Schedule a personalized tour and see firsthand what makes our school special.",
+      "primary": "Schedule a Visit",
+      "secondary": "Admissions"
+    },
+    "departments": {
+      "admissions": "Admissions Office",
+      "academics": "Academic Affairs",
+      "studentServices": "Student Services",
+      "finance": "Finance Office"
+    },
+    "quick": {
+      "addressTitle": "School Address",
+      "addressLines": [
+        "International School Campus",
+        "King Fahd Road, Al Olaya District",
+        "Riyadh 12313, Saudi Arabia"
+      ],
+      "phonesTitle": "Phone Numbers",
+      "phonesLines": [
+        "Main Office: +966 11 123 4567",
+        "Admissions: +966 11 123 4568",
+        "Emergency: +966 11 123 4569"
+      ],
+      "emailsTitle": "Email Addresses",
+      "emailsLines": [
+        "info@al-madina.school",
+        "admissions@al-madina.school",
+        "principal@al-madina.school"
+      ],
+      "hoursTitle": "Office Hours",
+      "hoursLines": [
+        "Sunday—Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 12:00 PM",
+        "Saturday: Closed"
+      ],
+      "mapEyebrow": "Visit Our Campus",
+      "mapTitle": "Find Us on the Map",
+      "mapDesc": "Located in the heart of Riyadh, our modern campus is easily accessible and features state-of-the-art facilities.",
+      "mapCta": "View on Google Maps",
+      "mapLabel": "Interactive Map"
+    }
+  },
+  "footer": {
+    "follow": "Follow",
+    "socials": "Twitter · Instagram · Facebook",
+    "linksLabel": "Links",
+    "ctaBanner": "Interested? Book a tour or apply now.",
+    "contactLine1": "Riyadh, KSA · +966 5X XXX XXXX",
+    "contactLine2": "info@school.demo",
+    "copyrightSuffix": "Demo only.",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "admin": {
+    "title": "Admin Panel (Demo)",
+    "subtitle": "Manage your website content and settings with ease and flexibility.",
+    "loading": "Loading admin panel...",
+    "unsaved": "Unsaved Changes",
+    "tabs": {
+      "hero": "Hero",
+      "programs": "Programs",
+      "admissions": "Admissions",
+      "contact": "Contact"
+    },
+    "save": "Save",
+    "reset": "Reset to Defaults",
+    "saving": "Saving...",
+    "confirmReset": "Are you sure you want to reset all settings?",
+    "saved": "Successfully saved",
+    "heroForm": {
+      "titleLabel": "Hero Title",
+      "subtitleLabel": "Hero Subtitle",
+      "titlePlaceholder": "Main website title",
+      "subtitlePlaceholder": "Brief school description",
+      "writingTipsTitle": "Writing Tips",
+      "writingTipsList": [
+        "Use compelling and clear titles",
+        "Keep descriptions concise and informative",
+        "Focus on unique selling points"
+      ]
+    },
+    "programsForm": {
+      "programsLabel": "Academic Programs (comma separated)",
+      "programsPlaceholder": "Program 1, Program 2, Program 3",
+      "previewLabel": "Preview",
+      "noProgramsAdded": "No programs added"
+    },
+    "admissionsForm": {
+      "noteLabel": "Admissions Note",
+      "notePlaceholder": "Important information about the admission process",
+      "bestPractices": "Best Practices",
+      "bestPracticesList": [
+        "Include important dates",
+        "Clearly state requirements",
+        "Provide contact information"
+      ],
+      "avoid": "Avoid",
+      "avoidList": [
+        "Overly complex information",
+        "Vague promises",
+        "Excessively long text"
+      ]
+    },
+    "contactForm": {
+      "emailLabel": "Contact Email",
+      "emailPlaceholder": "contact@school.example",
+      "emailGuidelinesTitle": "Email Guidelines",
+      "emailGuidelinesList": [
+        "Use an official school email address",
+        "Ensure regular email monitoring",
+        "Consider separate emails for different departments"
+      ],
+      "submissionsTitle": "Contact Form Submissions",
+      "clearAll": "Clear All",
+      "noSubmissions": "No submissions yet.",
+      "subjectLabel": "Subject:"
+    },
+    "preview": {
+      "title": "Live Preview",
+      "hero": "Hero Section",
+      "programs": "Programs",
+      "admissions": "Admissions",
+      "contact": "Contact",
+      "noTitle": "No title set",
+      "noSubtitle": "No subtitle set",
+      "noPrograms": "No programs",
+      "noAdmissionsNote": "No note set",
+      "noContactEmail": "No email set"
+    },
+    "help": {
+      "title": "Usage Tips",
+      "tips": [
+        "Save changes regularly to avoid data loss",
+        "Use live preview to check your changes",
+        "You can reset settings to defaults anytime",
+        "Updates appear immediately on the main site"
+      ]
+    }
+  },
+  "academics": {
+    "badge": "Academic Excellence",
+    "title": "Our Academic Programs",
+    "subtitle": "Comprehensive curriculum designed to inspire learning, foster critical thinking, and prepare students for global success in an ever-changing world.",
+    "curriculum": {
+      "eyebrow": "Curriculum Framework",
+      "title": "International Standards, Local Values",
+      "description": "Our curriculum blends the best of international education with Saudi cultural values and national priorities.",
+      "international": {
+        "title": "International Curriculum",
+        "description": "Following globally recognized educational standards that prepare students for international universities and careers.",
+        "features": [
+          "Cambridge International Examinations",
+          "Advanced Placement (AP) Programs",
+          "International Baccalaureate preparation",
+          "STEAM-focused learning approach",
+          "Critical thinking and problem-solving skills"
+        ]
+      },
+      "saudi": {
+        "title": "Saudi National Curriculum",
+        "description": "Comprehensive coverage of national requirements ensuring students maintain strong ties to their cultural heritage.",
+        "features": [
+          "Arabic Language & Literature",
+          "Islamic Studies & Quran",
+          "Saudi History & Geography",
+          "National Identity & Values",
+          "Community Service Learning"
+        ]
+      }
+    },
+    "programs": {
+      "eyebrow": "Academic Programs",
+      "title": "Learning Pathways by Level",
+      "description": "Each program is carefully designed to meet students' developmental needs while maintaining high academic standards.",
+      "eyp": {
+        "title": "Early Years Program (KG1-KG2)",
+        "description": "Foundation-building through play-based learning, creativity, and social development in a nurturing bilingual environment.",
+        "subjects": {
+          "title": "Core Subjects",
+          "list": [
+            "English Language Development",
+            "Arabic & Quran Basics",
+            "Mathematics Foundations",
+            "Science Exploration",
+            "Creative Arts & Crafts",
+            "Physical Development"
+          ]
+        },
+        "activities": {
+          "title": "Learning Activities",
+          "list": [
+            "Storytelling & Reading",
+            "Music & Movement",
+            "Nature Discovery",
+            "Social Skills Games",
+            "Cultural Celebrations"
+          ]
+        }
+      },
+      "primary": {
+        "title": "Primary Program (Grades 1-5)",
+        "description": "Strong academic foundations with focus on literacy, numeracy, and character development through engaging, hands-on learning.",
+        "subjects": {
+          "title": "Core Subjects",
+          "list": [
+            "English Language Arts",
+            "Arabic Language & Literature",
+            "Mathematics",
+            "Science & Technology",
+            "Islamic Studies",
+            "Social Studies",
+            "Physical Education",
+            "Art & Music"
+          ]
+        },
+        "activities": {
+          "title": "Enrichment Activities",
+          "list": [
+            "Reading Clubs",
+            "Science Experiments",
+            "Cultural Projects",
+            "Math Competitions",
+            "Art Exhibitions"
+          ]
+        }
+      },
+      "middle": {
+        "title": "Middle School Program (Grades 6-8)",
+        "description": "Comprehensive preparation for advanced studies with emphasis on independent learning, research skills, and leadership development.",
+        "subjects": {
+          "title": "Core Subjects",
+          "list": [
+            "Advanced English & Literature",
+            "Arabic Language & Poetry",
+            "Algebra & Geometry",
+            "Biology, Chemistry & Physics",
+            "Islamic Civilization",
+            "World Geography & History",
+            "Computer Science",
+            "Foreign Languages"
+          ]
+        },
+        "activities": {
+          "title": "Advanced Activities",
+          "list": [
+            "Research Projects",
+            "Debate Teams",
+            "Science Fairs",
+            "Model UN",
+            "Leadership Programs"
+          ]
+        }
+      }
+    },
+    "timetables": {
+      "eyebrow": "Class Schedule",
+      "title": "Daily & Weekly Structure",
+      "description": "Well-balanced schedule ensuring optimal learning time while providing adequate rest and enrichment activities.",
+      "schoolDay": {
+        "title": "Daily Schedule",
+        "schedule": [
+          {"activity": "Morning Assembly", "time": "7:30 AM"},
+          {"activity": "Period 1-2", "time": "7:45 AM"},
+          {"activity": "Break", "time": "9:15 AM"},
+          {"activity": "Period 3-4", "time": "9:30 AM"},
+          {"activity": "Lunch", "time": "11:30 AM"},
+          {"activity": "Period 5-6", "time": "12:15 PM"},
+          {"activity": "Dismissal", "time": "2:00 PM"}
+        ]
+      },
+      "weeklySchedule": {
+        "title": "Weekly Structure",
+        "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
+        "hours": "6.5 hours/day"
+      },
+      "extracurricular": {
+        "title": "After School",
+        "activities": [
+          "Sports Teams (3:00-4:30 PM)",
+          "Arts & Crafts (3:00-4:00 PM)",
+          "Homework Club (3:00-4:00 PM)",
+          "Language Classes (3:00-4:00 PM)"
+        ]
+      }
+    },
+    "assessment": {
+      "eyebrow": "Assessment Methods",
+      "title": "Comprehensive Student Evaluation",
+      "description": "Multi-faceted assessment approach that measures academic progress, character development, and 21st-century skills.",
+      "continuous": {
+        "title": "Continuous Assessment",
+        "description": "Ongoing evaluation through varied methods to track student progress throughout the academic year.",
+        "methods": [
+          "Daily observation and participation",
+          "Project-based learning assessments",
+          "Peer and self-assessment activities",
+          "Portfolio development and review",
+          "Regular quiz and assignment feedback"
+        ]
+      },
+      "examinations": {
+        "title": "Formal Examinations",
+        "description": "Structured testing periods designed to evaluate cumulative learning and prepare students for external assessments.",
+        "schedule": [
+          {"name": "Mid-Term Exams", "grades": "Grades 3-8", "period": "October & February"},
+          {"name": "Final Exams", "grades": "Grades 1-8", "period": "December & May"},
+          {"name": "Cambridge Checkpoints", "grades": "Grades 6 & 8", "period": "May-June"},
+          {"name": "Internal Assessments", "grades": "All Grades", "period": "Ongoing"}
+        ]
+      }
+    },
+    "cta": {
+      "title": "Explore Our Academic Excellence",
+      "subtitle": "Discover how our comprehensive curriculum prepares students for success in an interconnected world.",
+      "apply": "Apply for Admission",
+      "contact": "Schedule a Visit"
+    }
+  },
+  "admissions": {
+    "badge": "Admissions Open",
+    "title": "Join Our Learning Community",
+    "subtitle": "Begin your child's journey to academic excellence, character development, and global citizenship in our nurturing bilingual environment.",
+    "process": {
+      "eyebrow": "Application Process",
+      "title": "Your Path to Enrollment",
+      "description": "Simple, transparent steps designed to help you and your child join our educational community."
+    },
+    "requirements": {
+      "eyebrow": "Entry Requirements",
+      "title": "Admission Criteria by Level",
+      "description": "Age-appropriate requirements ensuring every child is ready to thrive in our academic environment.",
+      "levels": [
+        {
+          "name": "Early Years (KG1-KG2)",
+          "ageRange": "Ages 3-5",
+          "icon": "🎨",
+          "requirements": [
+            "Minimum age 3 years by September 1st",
+            "Basic toilet training completed",
+            "Health and vaccination records",
+            "Birth certificate (original & copy)",
+            "Parent interview session"
+          ]
+        },
+        {
+          "name": "Primary (Grades 1-5)",
+          "ageRange": "Ages 6-10",
+          "icon": "📚",
+          "requirements": [
+            "Age-appropriate academic readiness",
+            "Previous school records (if applicable)",
+            "Basic English and Arabic assessment",
+            "Student interview and interaction",
+            "Medical examination certificate"
+          ]
+        },
+        {
+          "name": "Middle School (Grades 6-8)",
+          "ageRange": "Ages 11-13",
+          "icon": "🔬",
+          "requirements": [
+            "Strong academic performance history",
+            "English and Arabic proficiency tests",
+            "Mathematics and Science assessments",
+            "Character reference from previous school",
+            "Student essay and interview"
+          ]
+        }
+      ]
+    },
+    "documents": {
+      "note": {
+        "title": "Document Guidelines",
+        "content": "All documents must be original or certified copies. Foreign documents require official translation and authentication."
+      }
+    },
+    "calendar": {
+      "eyebrow": "Academic Calendar",
+      "title": "Important Dates & Deadlines",
+      "description": "Key dates for the application process and academic year planning.",
+      "dates": {
+        "title": "Application Deadlines",
+        "events": [
+          {
+            "name": "Application Opens",
+            "description": "Online applications available",
+            "date": "January 15"
+          },
+          {
+            "name": "Assessment Period",
+            "description": "Student evaluations & interviews",
+            "date": "March 1-31"
+          },
+          {
+            "name": "Decision Notifications",
+            "description": "Acceptance letters sent",
+            "date": "April 15"
+          },
+          {
+            "name": "Registration Deadline",
+            "description": "Secure your child's place",
+            "date": "May 30"
+          }
+        ]
+      },
+      "structure": {
+        "title": "Academic Year",
+        "terms": [
+          {
+            "name": "First Term",
+            "dates": "September - December",
+            "weeks": "16 weeks"
+          },
+          {
+            "name": "Second Term",
+            "dates": "January - May",
+            "weeks": "20 weeks"
+          },
+          {
+            "name": "Summer Programs",
+            "dates": "June - July",
+            "weeks": "6 weeks (optional)"
+          }
+        ]
+      }
+    },
+    "assessment": {
+      "title": "Student Assessment Process",
+      "description": "Comprehensive evaluation to ensure the best fit for your child's educational needs and our learning environment.",
+      "process": {
+        "title": "Assessment Steps",
+        "steps": [
+          "Initial application review",
+          "Academic skills assessment",
+          "English & Arabic language evaluation",
+          "Student interview and interaction",
+          "Parent consultation meeting"
+        ]
+      },
+      "subjects": {
+        "title": "Assessment Areas",
+        "list": [
+          "English Language",
+          "Arabic Language",
+          "Mathematics",
+          "General Knowledge",
+          "Social Skills",
+          "Creative Thinking"
+        ]
+      }
+    },
+    "apply": {
+      "title": "Ready to Apply?",
+      "subtitle": "Take the first step towards your child's exceptional educational journey with our comprehensive application process.",
+      "startApplication": "Start Online Application",
+      "scheduleVisit": "Schedule Campus Visit",
+      "formUrl": "#apply-form",
+      "helpText": "Need assistance? Our admissions team is ready to help at admissions@al-madina.school"
+    }
+  },
+  "studentLife": {
+    "badge": "Beyond the Classroom",
+    "title": "Vibrant Student Life",
+    "subtitle": "A rich tapestry of clubs, sports, arts, and activities that nurture talents, build friendships, and create lasting memories.",
+    "clubs": {
+      "eyebrow": "Student Organizations",
+      "title": "Explore Your Interests",
+      "description": "Join like-minded peers in pursuing passions and developing new skills through our diverse range of student clubs.",
+      "meetingDay": "Meets",
+      "list": [
+        {
+          "name": "Robotics Club",
+          "description": "Build, program, and compete with cutting-edge robotics technology.",
+          "icon": "🤖",
+          "schedule": "Wednesdays 3:00 PM",
+          "bgColor": "bg-blue-50",
+          "textColor": "text-blue-600"
+        },
+        {
+          "name": "Debate Society",
+          "description": "Develop critical thinking and public speaking through competitive debate.",
+          "icon": "🗣️",
+          "schedule": "Tuesdays 3:30 PM",
+          "bgColor": "bg-green-50",
+          "textColor": "text-green-600"
+        },
+        {
+          "name": "Environmental Club",
+          "description": "Lead sustainability initiatives and protect our planet's future.",
+          "icon": "🌱",
+          "schedule": "Thursdays 3:00 PM",
+          "bgColor": "bg-emerald-50",
+          "textColor": "text-emerald-600"
+        },
+        {
+          "name": "Creative Writing",
+          "description": "Express creativity through storytelling, poetry, and literary arts.",
+          "icon": "✍️",
+          "schedule": "Mondays 3:15 PM",
+          "bgColor": "bg-purple-50",
+          "textColor": "text-purple-600"
+        },
+        {
+          "name": "Math Olympiad",
+          "description": "Challenge mathematical minds through problem-solving competitions.",
+          "icon": "🔢",
+          "schedule": "Fridays 2:30 PM",
+          "bgColor": "bg-amber-50",
+          "textColor": "text-amber-600"
+        },
+        {
+          "name": "Islamic Studies Club",
+          "description": "Deepen Islamic knowledge through Quran study and religious discussions.",
+          "icon": "📖",
+          "schedule": "Sundays 3:00 PM",
+          "bgColor": "bg-emerald-50",
+          "textColor": "text-emerald-600"
+        }
+      ]
+    },
+    "sports": {
+      "eyebrow": "Sports & Athletics",
+      "title": "Active & Healthy Lifestyle",
+      "description": "Promoting physical fitness, teamwork, and competitive spirit through comprehensive sports programs.",
+      "competitive": {
+        "title": "Competitive Sports",
+        "description": "Excel in inter-school competitions and develop athletic skills.",
+        "activities": [
+          "Football",
+          "Basketball", 
+          "Swimming",
+          "Track & Field",
+          "Volleyball",
+          "Tennis"
+        ]
+      },
+      "recreational": {
+        "title": "Recreational Activities",
+        "description": "Enjoy physical activity and build healthy habits in a fun environment.",
+        "activities": [
+          "Martial Arts",
+          "Table Tennis",
+          "Badminton",
+          "Fitness Training"
+        ]
+      }
+    },
+    "arts": {
+      "eyebrow": "Arts & Culture",
+      "title": "Creative Expression",
+      "description": "Nurture artistic talents and cultural appreciation through diverse creative programs.",
+      "programs": [
+        {
+          "name": "Visual Arts",
+          "description": "Painting, drawing, and digital art exploration.",
+          "icon": "🎨",
+          "bgColor": "bg-purple-50",
+          "textColor": "text-purple-600",
+          "schedule": "Tuesdays & Thursdays",
+          "activities": [
+            "Painting & Drawing",
+            "Digital Art",
+            "Sculpture",
+            "Art History"
+          ]
+        },
+        {
+          "name": "Islamic Religious Studies",
+          "description": "Deepen understanding of Islamic teachings, Quran, and Islamic heritage.",
+          "icon": "🕌",
+          "bgColor": "bg-blue-50",
+          "textColor": "text-blue-600",
+          "schedule": "Mondays & Wednesdays",
+          "activities": [
+            "Quran Recitation",
+            "Hadith Studies",
+            "Islamic History",
+            "Fiqh (Islamic Jurisprudence)"
+          ]
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Upcoming Events",
+      "title": "School Calendar",
+      "description": "Stay connected with our vibrant school community through exciting events and activities.",
+      "upcoming": [
+        {
+          "title": "Science Fair",
+          "date": "March 15, 2024",
+          "time": "2:00 PM - 5:00 PM",
+          "location": "Main Auditorium",
+          "description": "Annual showcase of student scientific projects and innovations."
+        },
+        {
+          "title": "Cultural Heritage Day",
+          "date": "March 22, 2024", 
+          "time": "9:00 AM - 3:00 PM",
+          "location": "School Grounds",
+          "description": "Celebrate diverse cultures with traditional performances and exhibits."
+        },
+        {
+          "title": "Sports Day",
+          "date": "April 5, 2024",
+          "time": "8:00 AM - 4:00 PM",
+          "location": "Athletic Fields",
+          "description": "Inter-house competitions and athletic achievements celebration."
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Student Gallery",
+      "title": "Moments & Memories",
+      "description": "Capturing the spirit and achievements of our student community.",
+      "photos": "photos",
+      "viewGallery": "View Gallery",
+      "categories": [
+        {
+          "name": "Academic Achievements",
+          "count": 24,
+          "preview": "🏆"
+        },
+        {
+          "name": "Sports & Athletics",
+          "count": 18,
+          "preview": "⚽"
+        },
+        {
+          "name": "Arts & Culture",
+          "count": 31,
+          "preview": "🎨"
+        }
+      ]
+    },
+    "leadership": {
+      "eyebrow": "Student Leadership",
+      "title": "Leading Tomorrow",
+      "description": "Empowering students to develop leadership skills and make a positive impact.",
+      "council": {
+        "title": "Student Council",
+        "description": "Representing student voices and organizing school-wide initiatives.",
+        "positions": [
+          {
+            "role": "President",
+            "student": "Ahmed Al-Rashid",
+            "grade": "Grade 12"
+          },
+          {
+            "role": "Vice President", 
+            "student": "Sarah Johnson",
+            "grade": "Grade 11"
+          },
+          {
+            "role": "Secretary",
+            "student": "Omar Hassan",
+            "grade": "Grade 10"
+          }
+        ]
+      },
+      "opportunities": {
+        "title": "Leadership Programs",
+        "description": "Develop leadership skills through various programs and initiatives.",
+        "programs": [
+          "Peer Mentoring Program",
+          "Community Service Projects",
+          "Model United Nations",
+          "Youth Leadership Workshops",
+          "Environmental Sustainability Committee"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Join Our Community?",
+      "subtitle": "Experience the vibrant student life at Al-Madina International School. Apply today and become part of our diverse, dynamic learning community.",
+      "primaryButton": "Apply Now",
+      "secondaryButton": "Schedule Visit"
+    }
+  },
+  "parentResources": {
+    "badge": "Parent Support Hub",
+    "title": "Parent Resources", 
+    "subtitle": "Comprehensive support and resources to help parents stay engaged and informed in their child's educational journey.",
+    "quickAccess": [
+      {
+        "title": "Student Results",
+        "description": "Access grades and progress reports",
+        "icon": "📊",
+        "bgColor": "bg-blue-50",
+        "textColor": "text-blue-600",
+        "href": "/results",
+        "action": "View Results"
+      }
+    ],
+    "forms": {
+      "eyebrow": "Download Center",
+      "title": "Essential Forms & Documents",
+      "description": "Access all necessary forms and documents for your child's education.",
+      "download": "Download",
+      "list": [
+        {
+          "name": "Medical Information Form",
+          "description": "Health and emergency contact details",
+          "format": "PDF",
+          "size": "2.1 MB",
+          "downloadUrl": "/forms/medical-form.pdf"
+        }
+      ]
+    },
+    "academic": {
+      "eyebrow": "Academic Support",
+      "title": "Curriculum & Assessment Information", 
+      "description": "Resources to help parents understand and support their child's learning journey.",
+      "curriculum": {
+        "title": "Curriculum Guides",
+        "description": "Detailed information about what your child is learning at each grade level.",
+        "documents": [
+          {
+            "title": "Grade 1-2 Curriculum Overview",
+            "grade": "Early Primary",
+            "url": "/curriculum/grade-1-2.pdf"
+          }
+        ]
+      },
+      "assessment": {
+        "title": "Assessment Information",
+        "description": "Understanding how we measure and report your child's progress.",
+        "schedules": [
+          {
+            "exam": "Mid-Term Assessments",
+            "dates": "October 15-25, 2024",
+            "status": "Upcoming",
+            "statusColor": "bg-blue-100 text-blue-800"
+          }
+        ]
+      }
+    },
+    "results": {
+      "title": "Student Results Portal",
+      "description": "Secure access to your child's academic progress, grades, and detailed reports.",
+      "portalUrl": "/results-portal",
+      "accessPortal": "Access Results Portal",
+      "access": {
+        "title": "How to Access",
+        "steps": [
+          "Log in with your parent credentials",
+          "Select your child's name", 
+          "Choose the term/semester",
+          "View or download reports"
+        ]
+      },
+      "available": {
+        "title": "Available Reports",
+        "types": [
+          "Term report cards",
+          "Progress monitoring reports",
+          "Assessment breakdowns",
+          "Attendance records"
+        ]
+      }
+    },
+    "communication": {
+      "eyebrow": "Stay Connected",
+      "title": "Communication & Updates",
+      "description": "Multiple channels to stay informed and engaged with your child's education.",
+      "circulars": {
+        "title": "Recent Circulars",
+        "viewAll": "View All Circulars",
+        "recent": [
+          {
+            "title": "Mid-Term Break Schedule",
+            "summary": "Important dates for the upcoming school break",
+            "date": "September 25, 2024",
+            "category": "Schedule",
+            "url": "/circulars/mid-term-break.pdf"
+          }
+        ]
+      },
+      "meetings": {
+        "title": "Parent-Teacher Conferences",
+        "description": "Regular opportunities to discuss your child's progress",
+        "schedule_action": "Schedule Meeting",
+        "schedule": [
+          {
+            "type": "Individual Conferences",
+            "frequency": "Twice per term"
+          }
+        ]
+      },
+      "guidelines": {
+        "title": "Communication Guidelines",
+        "description": "Best practices for effective school-home communication",
+        "tips": [
+          "Check email regularly for updates",
+          "Use school app for quick messages",
+          "Schedule meetings in advance", 
+          "Follow up on important issues"
+        ]
+      }
+    },
+    "handbook": {
+      "title": "Parent Handbook 2024-25",
+      "description": "Comprehensive guide covering policies, procedures, and important information for the academic year.",
+      "downloadUrl": "/handbook/parent-handbook-2024.pdf",
+      "download": "Download Handbook"
+    },
+    "support": {
+      "eyebrow": "Need Help?",
+      "title": "Support & Assistance", 
+      "description": "We're here to help with any questions or concerns about your child's education.",
+      "options": [
+        {
+          "title": "Academic Support",
+          "description": "Questions about curriculum and learning",
+          "icon": "📚",
+          "bgColor": "bg-blue-50",
+          "textColor": "text-blue-600",
+          "action": {
+            "href": "/contact?dept=academic",
+            "label": "Contact Academic Team"
+          }
+        }
+      ]
+    }
+  },
+  "newsEvents": {
+    "badge": "Stay Informed",
+    "title": "News & Events",
+    "subtitle": "Keep up with the latest developments, achievements, and upcoming activities in our school community.",
+    "news": {
+      "eyebrow": "Latest Updates",
+      "title": "School News",
+      "description": "Stay informed about important developments and achievements in our school community.",
+      "featured": "Featured News",
+      "readMore": "Read More",
+      "latest": {
+        "featured": {
+          "title": "Outstanding Cambridge Results 2024",
+          "excerpt": "Our Grade 8 students achieved exceptional results in Cambridge International Examinations, with 95% scoring A* or A grades.",
+          "date": "September 25, 2024"
+        },
+        "articles": [
+          {
+            "title": "New STEAM Laboratory Opens",
+            "excerpt": "State-of-the-art science, technology, engineering, arts, and mathematics facility.",
+            "date": "September 20, 2024",
+            "author": "Dr. Sarah Ahmed",
+            "category": "Facilities",
+            "categoryColor": "bg-blue-100 text-blue-800"
+          }
+        ]
+      }
+    },
+    "events": {
+      "eyebrow": "Upcoming Activities",
+      "title": "School Events",
+      "description": "Join us for exciting educational and community events throughout the year.",
+      "register": "Register Now",
+      "upcoming": [
+        {
+          "title": "Annual Science Exhibition",
+          "description": "Student projects and experiments on display for the community",
+          "month": "OCT",
+          "day": "15",
+          "year": "2024",
+          "time": "9:00 AM - 4:00 PM",
+          "location": "Main Campus",
+          "audience": "Open to Public",
+          "type": "Academic",
+          "typeColor": "bg-blue-100 text-blue-800",
+          "registrationRequired": true
+        }
+      ]
+    },
+    "announcements": {
+      "eyebrow": "Important Notices",
+      "title": "Official Announcements",
+      "description": "Critical information and updates for our school community.",
+      "list": [
+        {
+          "title": "Term Break Schedule",
+          "content": "School will be closed from October 28 - November 5 for mid-term break. Classes resume November 6.",
+          "date": "September 27, 2024",
+          "priority": "high",
+          "priorityLabel": "Important",
+          "actionRequired": false
+        }
+      ]
+    },
+    "calendar": {
+      "eyebrow": "Academic Calendar",
+      "title": "Events Calendar",
+      "description": "View all upcoming events and important dates at a glance.",
+      "currentMonth": "October 2024",
+      "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "viewFullCalendar": "View Full Calendar",
+      "days": [
+        {"date": 1, "isCurrentMonth": true, "hasEvent": false, "isToday": false},
+        {"date": 15, "isCurrentMonth": true, "hasEvent": true, "isToday": false}
+      ]
+    },
+    "newsletter": {
+      "title": "Stay Connected",
+      "subtitle": "Subscribe to our newsletter for the latest updates and important information.",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe"
+    }
+  }
+}
