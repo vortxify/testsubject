@@ -1,0 +1,385 @@
+{
+  "studentLife": {
+    "sports": {
+      "eyebrow": "Athletics & Recreation",
+      "title": "Sports & Physical Activities",
+      "description": "Promoting physical fitness, teamwork, and healthy competition through comprehensive sports programs.",
+      "competitive": {
+        "title": "Competitive Sports",
+        "description": "Inter-school competitions and tournaments",
+        "activities": ["Football", "Basketball", "Swimming", "Track & Field", "Tennis", "Volleyball"]
+      },
+      "recreational": {
+        "title": "Recreational Activities", 
+        "description": "Fun activities for all skill levels",
+        "activities": ["Yoga", "Dance", "Martial Arts", "Table Tennis", "Badminton", "Chess"]
+      }
+    },
+    "arts": {
+      "eyebrow": "Creative Expression",
+      "title": "Arts & Culture Programs",
+      "description": "Nurturing creativity and cultural appreciation through diverse artistic endeavors.",
+      "programs": [
+        {
+          "name": "Visual Arts",
+          "description": "Drawing, painting, and digital design",
+          "icon": "🎨",
+          "bgColor": "bg-pink-50",
+          "textColor": "text-pink-600",
+          "activities": ["Drawing Studio", "Digital Art", "Ceramics"]
+        },
+        {
+          "name": "Performing Arts", 
+          "description": "Music, drama, and dance performances",
+          "icon": "🎭",
+          "bgColor": "bg-indigo-50",
+          "textColor": "text-indigo-600",
+          "activities": ["School Choir", "Drama Club", "Orchestra"]
+        },
+        {
+          "name": "Media Arts",
+          "description": "Video production and journalism",
+          "icon": "📸",
+          "bgColor": "bg-purple-50", 
+          "textColor": "text-purple-600",
+          "activities": ["School Newsletter", "Video Club", "Photography"]
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "School Calendar",
+      "title": "Upcoming Events",
+      "description": "Exciting activities and celebrations throughout the academic year.",
+      "upcoming": [
+        {
+          "title": "Science Fair 2024",
+          "description": "Students showcase innovative projects and research",
+          "month": "OCT",
+          "day": "15",
+          "location": "Main Auditorium",
+          "time": "9:00 AM - 3:00 PM",
+          "audience": "All Grades",
+          "category": "Academic",
+          "categoryColor": "bg-blue-100 text-blue-800"
+        },
+        {
+          "title": "Cultural Heritage Day",
+          "description": "Celebrating diversity and traditions from around the world",
+          "month": "NOV",
+          "day": "22",
+          "location": "School Courtyard",
+          "time": "10:00 AM - 2:00 PM", 
+          "audience": "Whole School",
+          "category": "Cultural",
+          "categoryColor": "bg-green-100 text-green-800"
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Student Memories",
+      "title": "Photo Gallery",
+      "description": "Capturing moments of learning, achievement, and joy throughout the school year.",
+      "photos": "photos",
+      "viewGallery": "View Gallery",
+      "categories": [
+        {
+          "name": "Academic Achievements",
+          "icon": "🏆",
+          "count": "45"
+        },
+        {
+          "name": "Sports & Recreation",
+          "icon": "⚽",
+          "count": "67"
+        },
+        {
+          "name": "Arts & Culture",
+          "icon": "🎨",
+          "count": "32"
+        }
+      ]
+    },
+    "leadership": {
+      "eyebrow": "Student Government",
+      "title": "Leadership Opportunities", 
+      "description": "Empowering students to take initiative and make a positive impact in their school community.",
+      "council": {
+        "title": "Student Council",
+        "description": "Elected representatives working for student interests",
+        "positions": [
+          {
+            "student": "Sara Al-Ahmad",
+            "role": "Student President"
+          },
+          {
+            "student": "Ahmed Mohammed",
+            "role": "Vice President"
+          }
+        ]
+      },
+      "opportunities": {
+        "title": "Leadership Programs",
+        "description": "Various pathways to develop leadership skills",
+        "programs": [
+          "Peer Mentoring Program",
+          "Community Service Coordinator",
+          "Environmental Steward",
+          "Academic Tutor"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Join Our Vibrant Community",
+      "subtitle": "Experience the rich tapestry of opportunities that await your child.",
+      "apply": "Apply Now",
+      "visit": "Schedule a Visit"
+    }
+  },
+  "newsEvents": {
+    "badge": "Stay Informed",
+    "title": "News & Events",
+    "subtitle": "Keep up with the latest developments, achievements, and upcoming activities in our school community.",
+    "news": {
+      "eyebrow": "Latest Updates",
+      "title": "School News",
+      "description": "Stay informed about important developments and achievements in our school community.",
+      "featured": "Featured News",
+      "readMore": "Read More",
+      "latest": {
+        "featured": {
+          "title": "Outstanding Cambridge Results 2024",
+          "excerpt": "Our Grade 8 students achieved exceptional results in Cambridge International Examinations, with 95% scoring A* or A grades.",
+          "date": "September 25, 2024"
+        },
+        "articles": [
+          {
+            "title": "New STEAM Laboratory Opens",
+            "excerpt": "State-of-the-art science, technology, engineering, arts, and mathematics facility.",
+            "date": "September 20, 2024",
+            "author": "Dr. Sarah Ahmed",
+            "category": "Facilities",
+            "categoryColor": "bg-blue-100 text-blue-800"
+          },
+          {
+            "title": "Model UN Team Wins Regional Competition",
+            "excerpt": "Our delegates excelled in diplomacy and debate at the regional championships.",
+            "date": "September 18, 2024", 
+            "author": "Mr. Hassan Ali",
+            "category": "Achievement",
+            "categoryColor": "bg-green-100 text-green-800"
+          }
+        ]
+      }
+    },
+    "events": {
+      "eyebrow": "Upcoming Activities",
+      "title": "School Events",
+      "description": "Join us for exciting educational and community events throughout the year.",
+      "register": "Register Now",
+      "upcoming": [
+        {
+          "title": "Annual Science Exhibition",
+          "description": "Student projects and experiments on display for the community",
+          "month": "OCT",
+          "day": "15",
+          "year": "2024",
+          "time": "9:00 AM - 4:00 PM",
+          "location": "Main Campus",
+          "audience": "Open to Public",
+          "type": "Academic",
+          "typeColor": "bg-blue-100 text-blue-800",
+          "registrationRequired": true
+        }
+      ]
+    },
+    "announcements": {
+      "eyebrow": "Important Notices",
+      "title": "Official Announcements",
+      "description": "Critical information and updates for our school community.",
+      "list": [
+        {
+          "title": "Term Break Schedule",
+          "content": "School will be closed from October 28 - November 5 for mid-term break. Classes resume November 6.",
+          "date": "September 27, 2024",
+          "priority": "high",
+          "priorityLabel": "Important",
+          "actionRequired": false
+        }
+      ]
+    },
+    "calendar": {
+      "eyebrow": "Academic Calendar",
+      "title": "Events Calendar",
+      "description": "View all upcoming events and important dates at a glance.",
+      "currentMonth": "October 2024",
+      "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "viewFullCalendar": "View Full Calendar",
+      "days": [
+        {"date": 1, "isCurrentMonth": true, "hasEvent": false, "isToday": false},
+        {"date": 15, "isCurrentMonth": true, "hasEvent": true, "isToday": false},
+        {"date": 22, "isCurrentMonth": true, "hasEvent": true, "isToday": false}
+      ]
+    },
+    "newsletter": {
+      "title": "Stay Connected",
+      "subtitle": "Subscribe to our newsletter for the latest updates and important information.",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe"
+    }
+  },
+  "parentResources": {
+    "badge": "Parent Support Hub",
+    "title": "Parent Resources",
+    "subtitle": "Comprehensive support and resources to help parents stay engaged and informed in their child's educational journey.",
+    "quickAccess": [
+      {
+        "title": "Student Results",
+        "description": "Access grades and progress reports",
+        "icon": "📊",
+        "bgColor": "bg-blue-50",
+        "textColor": "text-blue-600",
+        "href": "/results",
+        "action": "View Results"
+      },
+      {
+        "title": "School Calendar",
+        "description": "Important dates and events",
+        "icon": "📅", 
+        "bgColor": "bg-green-50",
+        "textColor": "text-green-600",
+        "href": "/calendar",
+        "action": "View Calendar"
+      }
+    ],
+    "forms": {
+      "eyebrow": "Download Center",
+      "title": "Essential Forms & Documents",
+      "description": "Access all necessary forms and documents for your child's education.",
+      "download": "Download",
+      "list": [
+        {
+          "name": "Medical Information Form",
+          "description": "Health and emergency contact details",
+          "format": "PDF",
+          "size": "2.1 MB",
+          "downloadUrl": "/forms/medical-form.pdf"
+        }
+      ]
+    },
+    "academic": {
+      "eyebrow": "Academic Support",
+      "title": "Curriculum & Assessment Information", 
+      "description": "Resources to help parents understand and support their child's learning journey.",
+      "curriculum": {
+        "title": "Curriculum Guides",
+        "description": "Detailed information about what your child is learning at each grade level.",
+        "documents": [
+          {
+            "title": "Grade 1-2 Curriculum Overview",
+            "grade": "Early Primary",
+            "url": "/curriculum/grade-1-2.pdf"
+          }
+        ]
+      },
+      "assessment": {
+        "title": "Assessment Information",
+        "description": "Understanding how we measure and report your child's progress.",
+        "schedules": [
+          {
+            "exam": "Mid-Term Assessments",
+            "dates": "October 15-25, 2024",
+            "status": "Upcoming",
+            "statusColor": "bg-blue-100 text-blue-800"
+          }
+        ]
+      }
+    },
+    "results": {
+      "title": "Student Results Portal",
+      "description": "Secure access to your child's academic progress, grades, and detailed reports.",
+      "portalUrl": "/results-portal",
+      "accessPortal": "Access Results Portal",
+      "access": {
+        "title": "How to Access",
+        "steps": [
+          "Log in with your parent credentials",
+          "Select your child's name",
+          "Choose the term/semester",
+          "View or download reports"
+        ]
+      },
+      "available": {
+        "title": "Available Reports",
+        "types": [
+          "Term report cards",
+          "Progress monitoring reports",
+          "Assessment breakdowns",
+          "Attendance records"
+        ]
+      }
+    },
+    "communication": {
+      "eyebrow": "Stay Connected",
+      "title": "Communication & Updates",
+      "description": "Multiple channels to stay informed and engaged with your child's education.",
+      "circulars": {
+        "title": "Recent Circulars",
+        "viewAll": "View All Circulars",
+        "recent": [
+          {
+            "title": "Mid-Term Break Schedule",
+            "summary": "Important dates for the upcoming school break",
+            "date": "September 25, 2024",
+            "category": "Schedule",
+            "url": "/circulars/mid-term-break.pdf"
+          }
+        ]
+      },
+      "meetings": {
+        "title": "Parent-Teacher Conferences",
+        "description": "Regular opportunities to discuss your child's progress",
+        "schedule_action": "Schedule Meeting",
+        "schedule": [
+          {
+            "type": "Individual Conferences",
+            "frequency": "Twice per term"
+          }
+        ]
+      },
+      "guidelines": {
+        "title": "Communication Guidelines", 
+        "description": "Best practices for effective school-home communication",
+        "tips": [
+          "Check email regularly for updates",
+          "Use school app for quick messages", 
+          "Schedule meetings in advance",
+          "Follow up on important issues"
+        ]
+      }
+    },
+    "handbook": {
+      "title": "Parent Handbook 2024-25",
+      "description": "Comprehensive guide covering policies, procedures, and important information for the academic year.",
+      "downloadUrl": "/handbook/parent-handbook-2024.pdf",
+      "download": "Download Handbook"
+    },
+    "support": {
+      "eyebrow": "Need Help?",
+      "title": "Support & Assistance",
+      "description": "We're here to help with any questions or concerns about your child's education.",
+      "options": [
+        {
+          "title": "Academic Support",
+          "description": "Questions about curriculum and learning",
+          "icon": "📚",
+          "bgColor": "bg-blue-50",
+          "textColor": "text-blue-600",
+          "action": {
+            "href": "/contact?dept=academic",
+            "label": "Contact Academic Team"
+          }
+        }
+      ]
+    }
+  }
+}
